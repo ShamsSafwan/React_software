@@ -1,4 +1,12 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  color: whitesmoke;
+}
+#editor {
+  width: 70vw;
+}
+
+body{
+  background-image: linear-gradient(to right, #e81a5b, #e4007a, #d3009c, #b110c0, #733ae1);
 }
