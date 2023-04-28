@@ -1,12 +1,23 @@
 .App {
+  
   font-family: sans-serif;
   text-align: center;
   color: whitesmoke;
+  
 }
 #editor {
   width: 70vw;
+  height: 20vh;
 }
-
+#preview {
+  margin: auto;
+  color: #b110c0;
+  width: 70vw;
+  height: 20vh;
+  background-color: aliceblue;
+  border: 5px solid yellowgreen;
+  border-radius: 5px;
+}
 body{
   background-image: linear-gradient(to right, #e81a5b, #e4007a, #d3009c, #b110c0, #733ae1);
 }
