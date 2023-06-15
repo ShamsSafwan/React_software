@@ -7,16 +7,18 @@
 }
 #editor {
   width: 70vw;
-  height: 20vh;
+  height: 40vh;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #preview {
   margin: auto;
   color: #b110c0;
   width: 70vw;
-  height: 20vh;
+  height: 40vh;
   background-color: aliceblue;
   border: 5px solid yellowgreen;
   border-radius: 5px;
+  overflow: auto;
 }
 body{
   background-image: linear-gradient(to right, #e81a5b, #e4007a, #d3009c, #b110c0, #733ae1);
